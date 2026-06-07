@@ -10,7 +10,8 @@ In un'ora acquisirete una visione chiara del mercato di riferimento, delle carat
 
 ![HyperBeauty Logo](assets/images/hyperbeauty_cover.png)
 
-**HyperBeauty** è il gestionale cloud per i professionisti della bellezza distribuito da **Custom S.p.A.** in modalità white-label. Potente, intuitivo e completo — da un unico sistema si gestisce tutto: agenda, clienti, marketing, magazzino e personale.
+**HyperBeauty** è il **gestionale cloud** per i professionisti della bellezza distribuito da **Custom S.p.A.**
+Potente, intuitivo e completo — da un unico sistema si gestisce tutto: agenda, clienti, marketing, magazzino e personale.
 
 > *"Il tuo centro, finalmente sotto controllo."*
 
