@@ -19,17 +19,17 @@
   --md-primary-fg-color--light: #1976D2;
   --md-primary-fg-color--dark:  #0D47A1;
 
-  /* Footer — slate scuro della sidebar */
-  --md-footer-bg-color:         #252B3B;
-  --md-footer-bottom-bg-color:  #1C2130;
+  /* Footer — Custom Dark Grey brand */
+  --md-footer-bg-color:         #383E42;
+  --md-footer-bottom-bg-color:  #2A2F33;
   --md-footer-fg-color:         #ffffff;
   --md-footer-bottom-fg-color:  #cccccc;
 }
 
-/* 3. Header e barra tab — slate scuro della sidebar HyperBeauty */
+/* 3. Header e barra tab — Custom Dark Grey #383E42 (Brand Guidelines p.17) */
 .md-header,
 .md-tabs {
-  background-color: #2A2F3E;
+  background-color: #383E42;
 }
 
 /* 4. Fallback font */
