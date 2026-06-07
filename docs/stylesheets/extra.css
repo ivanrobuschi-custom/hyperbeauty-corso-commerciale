@@ -26,7 +26,13 @@
   --md-footer-bottom-fg-color:  #cccccc;
 }
 
-/* 3. Fallback font su elementi specifici */
+/* 3. Header e barra tab — slate scuro della sidebar HyperBeauty */
+.md-header,
+.md-tabs {
+  background-color: #2A2F3E;
+}
+
+/* 4. Fallback font */
 body, h1, h2, h3, h4, h5, h6, input, button {
   font-family: 'Titillium Web', sans-serif;
 }
