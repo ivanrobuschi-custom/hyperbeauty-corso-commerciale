@@ -1,0 +1,32 @@
+/* 1. Font Personalizzato via Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap');
+
+/* 2. Applicazione del Font al Tema Material */
+:root {
+  --md-text-font: 'Titillium Web', sans-serif;
+
+  /* COLORI COERENTI CON L'INTERFACCIA HYPERBEAUTY
+   *
+   * Primary (header, tab attivi, link)
+   *   → Blu del pulsante "Settimana" attivo nell'agenda
+   *
+   * Footer / sidebar
+   *   → Slate scuro della sidebar del software (#252B3B)
+   */
+
+  /* Header e Colore Primario — blu corporate HyperBeauty */
+  --md-primary-fg-color:        #1565C0;
+  --md-primary-fg-color--light: #1976D2;
+  --md-primary-fg-color--dark:  #0D47A1;
+
+  /* Footer — slate scuro della sidebar */
+  --md-footer-bg-color:         #252B3B;
+  --md-footer-bottom-bg-color:  #1C2130;
+  --md-footer-fg-color:         #ffffff;
+  --md-footer-bottom-fg-color:  #cccccc;
+}
+
+/* 3. Fallback font su elementi specifici */
+body, h1, h2, h3, h4, h5, h6, input, button {
+  font-family: 'Titillium Web', sans-serif;
+}
