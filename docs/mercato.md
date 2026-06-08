@@ -2,17 +2,19 @@
 
 ## Il settore beauty in Italia
 
-Il mercato dei saloni di bellezza e dei centri estetici in Italia è uno dei più grandi d'Europa. I numeri parlano chiaro:
+Il mercato dei saloni di bellezza e dei centri estetici in Italia conta **oltre 102.000 imprese attive** (fonte: iCRIBIS, marzo 2026 — codice ATECO 96.21). I numeri chiave del settore:
 
-| Categoria | Numero stimato di attività |
-|-----------|---------------------------|
-| Parrucchieri e hair stylist | ~85.000 |
-| Centri estetici | ~45.000 |
-| Barbieri | ~25.000 |
-| Nail center, tattoo, SPA | ~15.000 |
-| **Totale** | **~170.000 attività** |
+| Dato | Valore |
+|------|--------|
+| Imprese attive (ATECO 96.21) | **oltre 102.000** |
+| Fatturato settore | **653 milioni € (+5,7% vs 2023)** |
+| Incidenza microimprese | **99,5%** |
+| Attività con meno di 2 dipendenti | **55%** |
+| Attività con 4 o più dipendenti | **11%** |
+| Addetti totali nel settore | **~46.000** |
+| Profilo di rischio inferiore alla media retail | **75%** |
 
-La stragrande maggioranza sono **micro-imprese**: 1-5 dipendenti, gestione familiare, titolare che fa anche l'operatore. Questo significa che il titolare non ha tempo da dedicare all'amministrazione — e ogni strumento che gliela semplifica ha un valore enorme.
+La stragrande maggioranza sono **micro-imprese** a gestione familiare, con il titolare che spesso è anche operatore. Questo si traduce in decisioni rapide, interlocutore unico e forte preferenza per soluzioni semplici, scalabili e con costi prevedibili. Un mercato **ampio, capillare e a basso rischio commerciale** — i potenziali clienti sono già presenti e operativi nel vostro territorio.
 
 ---
 
@@ -70,26 +72,39 @@ Il settore beauty è storicamente uno degli ultimi a digitalizzarsi, ma il cambi
 I saloni che si sono già digitalizzati stanno crescendo più velocemente. Acquisiscono clienti tramite Google, Instagram e app di prenotazione. Chi non si adegua perde visibilità e clienti, specialmente tra i più giovani.
 
 ### Il ruolo crescente delle normative
-- **Fatturazione elettronica** sempre più richiesta
 - **Privacy e GDPR** impongono gestione strutturata dei dati clienti
-- **Registratori telematici** già obbligatori: HyperBeauty si integra nativamente con le stampanti Custom
+- **Registratori telematici** già obbligatori: HyperBeauty si integra nativamente con le stampanti Custom (solo dispositivi con protocollo WebService)
+- **Fatturazione elettronica**: nel settore beauty l'utilizzo è ancora molto limitato. HyperBeauty supporta la creazione del file XML da importare manualmente nel proprio gestionale contabile — uno strumento disponibile per chi ne ha effettiva necessità, non un elemento differenziante da enfatizzare in fase commerciale
 
 ---
 
 ## I competitor nel software gestionale beauty
 
-Il mercato ha diversi player. Conoscerli vi aiuta a posizionare meglio HyperBeauty:
+Il mercato italiano ha diversi player specializzati. Conoscerli vi aiuta a posizionare meglio HyperBeauty:
 
-| Software | Punti di forza | Punti deboli vs HyperBeauty |
-|----------|---------------|----------------------------|
-| **LineaBeauty** (ShopAutomation, Fidenza) | Diffuso in Italia, buona rete | Integrazione WhatsApp limitata, nessun hardware Custom |
-| **Treatwell** | Grande marketplace di prenotazioni | Commissioni su ogni prenotazione, dipendenza dalla piattaforma |
-| **Booksy** | App consumer molto usata | Commissioni, meno controllo per il titolare |
-| **Vagaro** | Funzionalità complete | Interfaccia complessa, supporto in inglese |
-| **Software locali/generici** | Prezzo basso | Non specifici per beauty, nessun aggiornamento |
+### Software gestionali verticali beauty
+
+| Software | Profilo | Punti di forza | Punti deboli vs HyperBeauty |
+|----------|---------|---------------|----------------------------|
+| **Panema Pagest** | Cloud, sede Lugano + filiale italiana. Oltre 7.000 saloni in Europa e Svizzera | POS integrato Buffetti Finance, WhatsApp Business integrato, microcamera professionale Mic-Fi per analisi cute/capelli, forte espansione internazionale | Referente tecnico primario svizzero, nessuna integrazione nativa con hardware Custom |
+| **BeautyCheck** (Info-lan srl, Pandino CR) | Cloud, 20 anni di esperienza, oltre 4.000 centri in Italia. ISO 9001 certificata | Storia e credibilità consolidate nel settore, app clienti personalizzata brandizzata, assistenza telefonica umana fino alle 19 (anche sabato), target ampio (estetici, parrucchieri, SPA, studi medici) | Nessuna integrazione nativa con hardware Custom, interfaccia meno moderna rispetto ai nuovi entrant |
+| **Magnolia Pro** (Magnolia Tech Srl, Milano) | Cloud SaaS, oltre 100 partner attivi. Prova gratuita 30 giorni | Interfaccia moderna e intuitiva, commissioni staff personalizzabili, cassa fiscale RT integrata, gestione timbrature collaboratori | Base clienti ancora limitata, nessuna integrazione hardware Custom, meno radicato sul territorio |
+
+### Piattaforme di marketplace e prenotazione
+
+| Software | Profilo | Punti di forza | Punti deboli vs HyperBeauty |
+|----------|---------|---------------|----------------------------|
+| **Treatwell** | Marketplace europeo di prenotazioni | Grande visibilità, bacino di utenti consumer ampio | Commissioni su ogni prenotazione, dipendenza dalla piattaforma, nessun controllo sui dati cliente |
+
+### Software gestionali generalisti con presenza nel beauty
+
+| Software | Profilo | Punti di forza | Punti deboli vs HyperBeauty |
+|----------|---------|---------------|----------------------------|
+| **Venere** (TeamSystem) | Brand noto, base installata consolidata | Ecosistema contabile integrato, rete rivenditori strutturata | Struttura legacy, meno flessibile su mobile, non specializzato beauty, nessun hardware Custom |
+| **Dylog-Buffetti** (vendita diretta e tramite partner) | Rete distributiva capillare, presente anche tramite rivenditori locali | Ecosistema contabile-fiscale integrato, capillarità territoriale | Non specializzato beauty, interfaccia generica, nessun hardware Custom |
 
 !!! info "Il vantaggio competitivo chiave"
-    HyperBeauty è l'**unico gestionale beauty integrato nativamente con l'hardware Custom**. Per voi concessionari è un argomento esclusivo: chi compra la stampante Custom e il gestionale HyperBeauty ha un ecosistema unico, un solo interlocutore, meno problemi.
+    HyperBeauty è l'**unico gestionale beauty integrato nativamente con l'hardware Custom** (dispositivi WebService). Per voi concessionari è un argomento esclusivo che nessuno dei competitor sopra può replicare: chi acquista la stampante Custom e il gestionale HyperBeauty ha un ecosistema unico, un solo interlocutore, meno problemi tecnici.
 
 ---
 

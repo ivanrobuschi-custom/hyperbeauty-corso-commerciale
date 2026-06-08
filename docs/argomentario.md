@@ -69,7 +69,7 @@ Non aspettare che il cliente dica sì. Proponi il passo successivo in modo natur
 
 oppure:
 
-> *"Le lascio la brochure. Quando vuole fare una prova gratuita mi chiami — le faccio vedere il sistema sul suo tablet in 20 minuti."*
+> *"Le lascio il materiale con tutti i dettagli. Quando è pronto per partire mi chiami — in meno di un'ora la mettiamo online."*
 
 ---
 
@@ -112,6 +112,9 @@ Dopo aver ascoltato:
 Se ha hardware Custom:
 > *"In più, HyperBeauty si integra nativamente con la sua stampante Custom. Non deve configurare nulla — funziona subito."*
 
+!!! warning "Prima di usare questo argomento"
+    Verificate che il dispositivo Custom del cliente sia dotato di **protocollo WebService**. I registratori a tastiera e le stampanti di seconda generazione non sono compatibili con l'integrazione nativa. Un'informazione sbagliata qui può compromettere la credibilità.
+
 ---
 
 ### ☁️ "Non mi fido del cloud, voglio i dati sul mio PC"
@@ -127,7 +130,7 @@ Non lasciarlo nel vago. Chiedi:
 > *"Assolutamente, è una decisione importante. C'è qualcosa di specifico su cui ha dubbi? Così posso darle tutte le informazioni che le servono."*
 
 Se continua a rimandare:
-> *"Le propongo questo: le lascio accesso a una demo gratuita per una settimana. Lo prova senza impegno e poi mi dice."*
+> *"Capisco. Le preparo un riepilogo scritto con i costi, le funzionalità e i benefici concreti per il suo tipo di centro. Così ha tutto a portata di mano quando vuole approfondire — e io sono disponibile per qualsiasi domanda."*
 
 ---
 

@@ -169,8 +169,11 @@ HyperBeauty trasforma i dati quotidiani in **informazioni utili per il business*
 
 Integrazione **nativa e certificata** con le stampanti fiscali Custom. Nessuna configurazione extra, nessun problema di compatibilità.
 
+!!! warning "Compatibilità hardware — da comunicare chiaramente"
+    L'integrazione nativa è disponibile esclusivamente con i **dispositivi Custom dotati di protocollo WebService**. Sono **esclusi** i registratori di cassa a tastiera e le stampanti di seconda generazione. Verificate sempre il modello del cliente prima di promettere integrazione immediata.
+
 !!! success "Argomento esclusivo per voi concessionari"
-    Nessun altro software beauty sul mercato italiano ha questa integrazione nativa. Chi acquista HyperBeauty + hardware Custom ha **un ecosistema unico** e **un solo interlocutore** per tutto: voi.
+    Nessun altro software beauty sul mercato italiano ha questa integrazione nativa. Chi acquista HyperBeauty + hardware Custom compatibile ha **un ecosistema unico** e **un solo interlocutore** per tutto: voi.
 
 ---
 
@@ -198,8 +201,8 @@ Molti clienti hanno ancora timori sul cloud. Ecco come rispondere:
 | Marketing automation | ✅ | ⚠️ Parziale | ❌ |
 | Schede tecniche clienti | ✅ | ✅ | ❌ |
 | Abbonamenti e prepagate | ✅ | ✅ | ❌ |
-| Integrazione stampanti Custom | ✅ Nativa | ❌ | ❌ |
-| Fatturazione elettronica | ✅ (modulo) | ✅ | ❌ |
+| Integrazione stampanti Custom | ✅ Nativa (WebService) | ❌ | ❌ |
+| Creazione file XML fatture | ✅ (modulo) | ✅ | ❌ |
 | Supporto in italiano | ✅ | ✅ | ⚠️ |
 
 ---

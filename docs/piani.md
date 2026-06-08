@@ -147,7 +147,7 @@ Disponibili su tutti i piani come opzione extra:
 |--------|---------|
 | **BeWelly** | Prenotazione online via app, social e sito web — senza commissioni |
 | **WhatsApp automatico** | Promemoria e riepilogo appuntamenti inviati automaticamente (tramite servizi terze parti) |
-| **Fatture Elettroniche** | Emissione fatture elettroniche integrate nel gestionale |
+| **Fatture Elettroniche** | Creazione del file XML da importare nel proprio gestionale contabile per l'invio manuale. Indicato per i centri che ne hanno effettiva necessità — l'utilizzo nel settore beauty è ancora molto limitato |
 | **Operatori/Risorse aggiuntive** | Aggiunge operatori o risorse oltre le 6 incluse |
 
 ---

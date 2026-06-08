@@ -68,7 +68,7 @@ Il barbiere ha appuntamenti brevi e frequenti (20-40 minuti), una clientela quas
 
 **Dimensione tipica:** 2-8 operatori  
 **Piano consigliato:** Advanced o Business  
-**Moduli consigliati:** BeWelly, WhatsApp automatico, Fatture Elettroniche
+**Moduli consigliati:** BeWelly, WhatsApp automatico
 
 **Il suo mondo:**
 Il centro estetico ha una clientela prevalentemente femminile, molto fidelizzata. I trattamenti variano molto (viso, corpo, epilazione, massaggi) e le schede tecniche sono fondamentali per la sicurezza e la qualità del servizio. La titolare è spesso anche operatrice e vuole strumenti che le facciano risparmiare tempo amministrativo.
@@ -95,7 +95,7 @@ Il centro estetico ha una clientela prevalentemente femminile, molto fidelizzata
 
 **Dimensione tipica:** 5-15 operatori, più sale  
 **Piano consigliato:** Business o Enterprise  
-**Moduli consigliati:** BeWelly, WhatsApp automatico, Fatture Elettroniche, Operatori aggiuntivi
+**Moduli consigliati:** BeWelly, WhatsApp automatico, Operatori aggiuntivi
 
 **Il suo mondo:**
 La SPA gestisce risorse fisiche (cabine, vasche, saune) oltre agli operatori. I trattamenti sono lunghi e costosi. I clienti spendono mediamente molto di più rispetto a un salone standard. La gestione è complessa: bisogna coordinare operatori, sale, attrezzature e prodotti.
@@ -145,7 +145,7 @@ Attività spesso gestita da una o due persone, con appuntamenti molto frequenti 
 
 ## Il cliente che ha già un gestionale
 
-Questo è il caso più comune e più delicato. Ecco come gestirlo:
+Un caso delicato ma tutt'altro che raro, considerando che circa il 92% delle attività beauty ha una propensione al digitale molto ridotta: molti non hanno ancora un gestionale. Ecco come gestire chi ne ha già uno:
 
 ### Fase 1 — Ascolto
 Non attaccare il competitor. Fai domande:
@@ -168,6 +168,9 @@ Mostra **solo** la funzione che risolve il suo problema principale. Non fare una
 Se ha già una stampante Custom (o sta valutando di acquistarla):
 > *"Con HyperBeauty hai tutto integrato: gestionale e stampante dello stesso produttore. Un solo interlocutore per tutto, nessun problema di compatibilità. E io sono qui sul territorio."*
 
+!!! warning "Verifica il modello prima di promettere integrazione"
+    L'integrazione è disponibile solo con i dispositivi Custom dotati di **protocollo WebService**. I registratori a tastiera e le stampanti di seconda generazione non sono compatibili. Controllate sempre il modello del cliente durante la visita.
+
 ---
 
 ## Il cliente "non sono pronto"
@@ -179,7 +182,7 @@ Alcuni titolari rimandano la decisione. Ecco i segnali e come rispondere:
 | *"Ci devo pensare"* | Non ha capito il valore | Chiedi: *"Cosa ti frena esattamente?"* |
 | *"Non ho tempo adesso"* | Non vede la priorità | *"Il setup lo faccio io. Tu non devi fare nulla."* |
 | *"È un periodo difficile"* | Problema economico | Mostra il ROI: no-show recuperati coprono il costo |
-| *"Lo chiedo al mio commercialista"* | Non si fida ancora | Lascia materiale, proponi una demo gratuita |
+| *"Lo chiedo al mio commercialista"* | Non si fida ancora | Lascia materiale scritto con costi e benefici |
 
 ---
 
