@@ -101,7 +101,7 @@ Risposta:
 
 ---
 
-### 🖥️ "Ho già un gestionale" (LineaBeauty, altro)
+### 🖥️ "Ho già un gestionale"
 
 Non attaccare il competitor. Fai domande:
 > *"Bene. Cosa funziona bene con quello che usa? C'è qualcosa che le manca o che vorrebbe fare in modo diverso?"*
@@ -143,23 +143,6 @@ Questo mantiene il dialogo aperto e vi dà un'altra occasione di contatto.
 
 ---
 
-## Confronto con LineaBeauty — Argomenti specifici
-
-LineaBeauty di ShopAutomation (Fidenza) è il competitor diretto più presente sul territorio. Ecco i punti su cui HyperBeauty è più forte:
-
-| Aspetto | HyperBeauty | LineaBeauty | Argomento |
-|---------|-------------|-------------|-----------|
-| Integrazione WhatsApp | ✅ Completa | ⚠️ Limitata | *"Con HyperBeauty il WhatsApp è davvero integrato, non è un workaround"* |
-| Marketing automation | ✅ Avanzato | ⚠️ Parziale | *"I messaggi ai clienti inattivi partono da soli, senza toccare niente"* |
-| Integrazione hardware Custom | ✅ Nativa | ❌ Assente | *"Un solo fornitore per stampante e software — meno problemi, meno costi"* |
-| App prenotazione | ✅ BeWelly | ✅ Presente | *"BeWelly è senza commissioni — ogni prenotazione è sua"* |
-| Supporto locale | ✅ Voi | ❌ Centralizzato | *"Sono qui sul territorio, non un call center"* |
-
-!!! warning "Come usare questo confronto"
-    Non sminuire mai il competitor davanti al cliente. Usa frasi come *"HyperBeauty ha un approccio diverso su questo aspetto..."* piuttosto che *"LineaBeauty non lo sa fare"*. La credibilità si costruisce con i fatti, non con le critiche.
-
----
-
 ## Il valore del concessionario locale
 
 Questo è il vostro argomento più forte che nessun competitor può togliervi:
@@ -171,19 +154,6 @@ Questo è il vostro argomento più forte che nessun competitor può togliervi:
 2. **Setup personalizzato** — configurate il sistema sulle esigenze specifiche di quel centro
 3. **Supporto continuo** — non un ticket online ma una persona conosciuta
 4. **Ecosistema Custom** — hardware + software + assistenza dallo stesso interlocutore
-
----
-
-## Script per la prima chiamata / primo contatto
-
-Se contattate un potenziale cliente per la prima volta:
-
-> *"Buongiorno, sono [nome] di [azienda]. Lavoriamo con diversi centri estetici e saloni della zona e gestiamo anche le soluzioni software per la gestione del centro. Ho visto che [ha una stampante Custom / è nel settore da anni / ha aperto di recente]. Volevo capire se ha già uno strumento per gestire gli appuntamenti e i clienti, o se è qualcosa su cui sta valutando soluzioni. Ha 5 minuti?"*
-
-Se dice no al gestionale:
-> *"Perfetto, capisco. Le faccio una domanda veloce: com'è che gestisce oggi le prenotazioni? Su carta, su WhatsApp...?"*
-
-Da qui parte la conversazione.
 
 ---
 

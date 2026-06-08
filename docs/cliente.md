@@ -155,7 +155,7 @@ Non attaccare il competitor. Fai domande:
 - *"Come gestisci WhatsApp e i promemoria?"*
 
 ### Fase 2 — Identificare il gap
-I gap più comuni con chi usa LineaBeauty o software simili:
+I gap più comuni con chi usa software simili:
 - WhatsApp non integrato o integrazione limitata
 - Marketing automation assente o poco flessibile
 - Nessuna integrazione con hardware Custom
