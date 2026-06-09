@@ -74,7 +74,7 @@ I saloni che si sono già digitalizzati stanno crescendo più velocemente. Acqui
 ### Il ruolo crescente delle normative
 - **Privacy e GDPR** impongono gestione strutturata dei dati clienti
 - **Registratori telematici** già obbligatori: HyperBeauty si integra nativamente con le stampanti Custom (solo dispositivi con protocollo WebService)
-- **Fatturazione elettronica**: nel settore beauty l'utilizzo è ancora molto limitato. HyperBeauty supporta la creazione del file XML da importare manualmente nel proprio gestionale contabile — uno strumento disponibile per chi ne ha effettiva necessità, non un elemento differenziante da enfatizzare in fase commerciale
+- **Fatturazione elettronica**: nel settore beauty l'utilizzo è ancora molto limitato. HyperBeauty genera il file solo ai fini della trasmissione telematica, non ci sono movimenti di magazzino o altro.
 
 ---
 
@@ -100,7 +100,7 @@ Il mercato italiano ha diversi player specializzati. Conoscerli vi aiuta a posiz
 
 | Software | Profilo | Punti di forza | Punti deboli vs HyperBeauty |
 |----------|---------|---------------|----------------------------|
-| **Venere** (TeamSystem) | Brand noto, base installata consolidata | Ecosistema contabile integrato, rete rivenditori strutturata | Struttura legacy, meno flessibile su mobile, non specializzato beauty, nessun hardware Custom |
+| **Venere** | Brand noto, base installata consolidata | Ecosistema contabile integrato, rete rivenditori strutturata | Struttura legacy, meno flessibile su mobile, non specializzato beauty, nessun hardware Custom |
 | **Dylog-Buffetti** (vendita diretta e tramite partner) | Rete distributiva capillare, presente anche tramite rivenditori locali | Ecosistema contabile-fiscale integrato, capillarità territoriale | Non specializzato beauty, interfaccia generica, nessun hardware Custom |
 
 !!! info "Il vantaggio competitivo chiave"
