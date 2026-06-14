@@ -148,6 +148,7 @@ Attività spesso gestita da una o due persone, con appuntamenti molto frequenti 
 Un caso delicato ma tutt'altro che raro, considerando che circa il 92% delle attività beauty ha una propensione al digitale molto ridotta: molti non hanno ancora un gestionale. Ecco come gestire chi ne ha già uno:
 
 ### Fase 1 — Ascolto
+
 Non attaccare il competitor. Fai domande:
 - *"Da quanto lo usi?"*
 - *"Cosa funziona bene?"*
@@ -155,6 +156,7 @@ Non attaccare il competitor. Fai domande:
 - *"Come gestisci WhatsApp e i promemoria?"*
 
 ### Fase 2 — Identificare il gap
+
 I gap più comuni con chi usa software simili:
 - WhatsApp non integrato o integrazione limitata
 - Marketing automation assente o poco flessibile
@@ -162,9 +164,11 @@ I gap più comuni con chi usa software simili:
 - Interfaccia datata e poco intuitiva su smartphone
 
 ### Fase 3 — Demo mirata
+
 Mostra **solo** la funzione che risolve il suo problema principale. Non fare una demo completa: è controproducente.
 
 ### Fase 4 — La leva dell'ecosistema Custom
+
 Se ha già una stampante Custom (o sta valutando di acquistarla):
 > *"Con HyperBeauty hai tutto integrato: gestionale e stampante dello stesso produttore. Un solo interlocutore per tutto, nessun problema di compatibilità. E io sono qui sul territorio."*
 
