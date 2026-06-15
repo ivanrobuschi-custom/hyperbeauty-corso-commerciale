@@ -13,50 +13,6 @@
 Da usare durante il primo contatto con un potenziale cliente. Stampatelo o salvatelo sul telefono.
 
 ```
-QUALIFICAZIONE CLIENTE HYPERBEAUTY
-=====================================
-
-ANAGRAFICA
-□ Nome centro: ______________________
-□ Tipo: parrucchiere / estetico / barber / SPA / nail / altro
-□ N. operatori: ______
-
-SITUAZIONE ATTUALE
-□ Ha già un gestionale? Sì / No
-  → Se sì, quale? ___________________
-  → Cosa non funziona? ______________
-□ Come gestisce le prenotazioni oggi?
-  □ Carta  □ WhatsApp  □ Google Cal  □ Altro
-□ Quanti no-show a settimana? ________
-□ Ha una stampante Custom? Sì / No
-  → Modello: _______________________
-
-ESIGENZE
-□ Vuole prenotazione online? Sì / No / Forse
-□ Fa abbonamenti o prepagate? Sì / No
-□ Gestisce magazzino prodotti? Sì / No
-□ Quanti accessi contemporanei servono? ___
-
-PIANO CONSIGLIATO
-□ Essential   □ Advanced   □ Business   □ Enterprise
-
-MODULI AGGIUNTIVI
-□ BeWelly
-□ WhatsApp automatico
-□ Fatture Elettroniche
-□ Operatori aggiuntivi (n: ___)
-
-NOTE
-_____________________________________
-_____________________________________
-
-PASSO SUCCESSIVO
-□ Demo in sede  □ Demo da remoto  □ Invio materiale  □ Preventivo
-Data follow-up: ______________________
-```
-
----
-
 ## Matrice piani per profilo cliente
 
 Riferimento rapido per la proposta commerciale:
@@ -98,6 +54,7 @@ Riferimento rapido per la proposta commerciale:
 Dopo la firma del contratto, questi sono i passi per il setup del cliente:
 
 ```
+
 SETUP HYPERBEAUTY — CHECKLIST
 ================================
 
@@ -139,6 +96,7 @@ FOLLOW-UP
 □ Chiamata a 7 giorni per verifica
 □ Chiamata a 30 giorni per up-sell moduli
 □ Inserire in calendario rinnovo annuale
+
 ```
 
 ---
