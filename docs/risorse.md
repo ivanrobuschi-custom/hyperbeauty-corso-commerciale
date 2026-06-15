@@ -2,7 +2,7 @@
 
 ## Documentazione commerciale
 
-- Scarica la [**Brochure HyperBeauty**](assets/resources/brochure-hyperbeauty.pdf) — da condividere con i clienti
+- Scarica la [**Brochure HyperBeauty**](assets/resources/brochure-hyperbeauty_web.pdf) — da condividere con i clienti
 - Sito ufficiale prodotto: [www.hyperbeauty.it](https://www.hyperbeauty.it)
 - Sito Custom S.p.A.: [www.custom.biz](https://www.custom.biz)
 
