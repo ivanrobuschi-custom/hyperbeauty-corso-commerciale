@@ -12,8 +12,8 @@
 
 Da usare durante il primo contatto con un potenziale cliente. Stampatelo o salvatelo sul telefono.
 
-```
-## Matrice piani per profilo cliente
+
+### Matrice piani per profilo cliente
 
 Riferimento rapido per la proposta commerciale:
 
