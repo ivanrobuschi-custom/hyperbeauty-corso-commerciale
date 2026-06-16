@@ -33,6 +33,8 @@ Il cuore del sistema. L'agenda di HyperBeauty è visiva, colorata per operatore,
 **Scenario pratico:**
 > Il titolare è in ferie. La receptionist gestisce l'agenda dal tablet alla reception. Un operatore controlla i propri appuntamenti del giorno dallo smartphone. Tutto in tempo reale, nessuna confusione.
 
+![](assets/images/planning.png)
+
 ---
 
 ### 🌐 Prenotazione Online 24/7 — App BeWelly
@@ -51,6 +53,7 @@ BeWelly è l'app con cui i **clienti finali** prenotano i propri appuntamenti, d
 **Scenario pratico:**
 > Un cliente vuole prenotare domenica sera per il giovedì. Apre Instagram del salone, tocca il link in bio, sceglie servizio, operatore e orario. L'appuntamento appare immediatamente nell'agenda di HyperBeauty. Il titolare non ha fatto nulla.
 
+![](assets/images/be-welly-2.png)
 ---
 
 ### 💬 Promemoria WhatsApp & SMS

@@ -16,6 +16,8 @@ Non tutti i professionisti della bellezza hanno le stesse esigenze. Un barbiere 
 **Piano consigliato:** Essential o Advanced  
 **Moduli consigliati:** BeWelly, WhatsApp automatico
 
+![](assets/images/hyperbeauty-int-1.jpg)
+
 **Il suo mondo:**
 Il parrucchiere lavora con le mani tutto il giorno. Non ha tempo per rispondere ai messaggi tra un cliente e l'altro. La sua agenda è spesso su carta o su Google Calendar personale. I no-show sono il suo problema numero uno perché un appuntamento da parrucchiere dura 45-90 minuti: un buco in agenda è un danno enorme.
 
@@ -70,6 +72,8 @@ Il barbiere ha appuntamenti brevi e frequenti (20-40 minuti), una clientela quas
 **Piano consigliato:** Advanced o Business  
 **Moduli consigliati:** BeWelly, WhatsApp automatico
 
+![](assets/images/Gemini_Generated.png)
+
 **Il suo mondo:**
 Il centro estetico ha una clientela prevalentemente femminile, molto fidelizzata. I trattamenti variano molto (viso, corpo, epilazione, massaggi) e le schede tecniche sono fondamentali per la sicurezza e la qualità del servizio. La titolare è spesso anche operatrice e vuole strumenti che le facciano risparmiare tempo amministrativo.
 
@@ -123,6 +127,8 @@ La SPA gestisce risorse fisiche (cabine, vasche, saune) oltre agli operatori. I 
 **Dimensione tipica:** 1-3 operatori  
 **Piano consigliato:** Essential  
 **Moduli consigliati:** BeWelly, WhatsApp automatico
+
+![](assets/images/hyperbeauty-cover-1.jpg)
 
 **Il suo mondo:**
 Attività spesso gestita da una o due persone, con appuntamenti molto frequenti e clienti abituali. Il nail center ha clienti che tornano ogni 3-4 settimane: la fidelizzazione è quasi automatica, il problema è la gestione efficiente dell'agenda.

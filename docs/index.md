@@ -1,3 +1,6 @@
+![](assets/images/hyperbeauty_blu_rgb.png)
+)
+
 # HyperBeauty — Formazione Commerciale
 
 ### Obiettivo del corso
@@ -8,7 +11,7 @@ In un'ora acquisirete una visione chiara del mercato di riferimento, delle carat
 
 ---
 
-![HyperBeauty Logo](assets/images/hyperbeauty_cover.png)
+![HyperBeauty Logo](assets/images/hyperbeauty-cover-2.jpg)
 
 **HyperBeauty** è il **gestionale cloud** per i professionisti della bellezza distribuito da **Custom S.p.A.**
 Potente, intuitivo e completo — da un unico sistema si gestisce tutto: agenda, clienti, marketing, magazzino e personale.
@@ -34,6 +37,7 @@ Potente, intuitivo e completo — da un unico sistema si gestisce tutto: agenda,
 - [Contesto di Mercato](mercato.md)
 - [Il Prodotto HyperBeauty](prodotto.md)
 - [I Piani di Abbonamento](piani.md)
+- [Configurazioni Consigliate HyperBeauty + Hardware Custom](configurazioni-consigliate.md)
 - [Il Cliente Tipo](cliente.md)
 - [Argomentario di Vendita](argomentario.md)
 - [Materiali e Risorse](risorse.md)

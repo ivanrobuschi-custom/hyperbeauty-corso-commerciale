@@ -1,5 +1,7 @@
 # Materiali e Risorse
 
+![](assets/images/hyperbeauty_icona.png)
+
 ## Documentazione commerciale
 
 - Scarica la [**Brochure HyperBeauty**](assets/resources/brochure-hyperbeauty_web.pdf) — da condividere con i clienti
