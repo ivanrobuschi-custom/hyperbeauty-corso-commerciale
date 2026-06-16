@@ -46,20 +46,23 @@ Il SILK è il PC POS compatto e immediato: display 15" TFT con touch capacitivo,
 
 ---
 
-### Stampante Telematica · Q3X-N RT
+### Stampante Telematica · P3-N RT
 
-La Q3X-N RT è la stampante telematica Custom di terza generazione pensata per installazioni compatte. Supporto allo scontrino digitale, compatibile con RX Configurator e Custom Hub per la gestione e aggiornamento firmware da remoto.
+La P3-N RT spicca per affidabilità e qualità di stampa, con omologa nativa alle più recenti specifiche A.d.E. V11.1. Plug and play immediato con tutti i programmi di gestione, giornale elettronico su MicroSD SLC Industrial da 3 milioni di righe (circa 600 rotoli), testina e taglierina a lunga durata.
 
 | Specifiche | |
 |---|---|
-| **Codice** | `913FF030300733` |
+| **Codice** | `911MH040100733` |
 | **Larghezza carta** | 80 mm |
 | **Rotolo max** | Ø 80 mm |
-| **Velocità di stampa** | 140 mm/s |
+| **Velocità di stampa** | 200 mm/s |
 | **Risoluzione** | 203 dpi (8 dot/mm) |
-| **Interfacce** | Ethernet + USB |
-| **Omologa** | Spec. RT V.7 e superiori — Lotteria Scontrini |
-| **Funzioni** | Scontrino parlante · Reso · Annullo · Aggiornamento firmware da remoto |
+| **Processore** | 100 MHz |
+| **Giornale elettronico** | MicroSD SLC Industrial — 3M righe (~600 rotoli) |
+| **Taglierina** | 1 milione di tagli — taglio totale o parziale |
+| **Interfacce** | RS232 · USB · Ethernet · cassetto · Wi-Fi/BT opzionale |
+| **Protocolli** | Custom · Custom DDLL · Xon-Xoff · Web Services |
+| **Omologa** | Nativa A.d.E. V11.1 · Lotteria Scontrini tradizionale e istantanea |
 
 ---
 
@@ -99,23 +102,20 @@ ARAGON è il PC POS Windows® con monitor wide 16:9 dalle linee slim ed eleganti
 
 ---
 
-### Stampante Telematica · P3-N RT
+### Stampante Telematica · Q3X-N RT
 
-La P3-N RT spicca per affidabilità e qualità di stampa, con omologa nativa alle più recenti specifiche A.d.E. V11.1. Plug and play immediato con tutti i programmi di gestione, giornale elettronico su MicroSD SLC Industrial da 3 milioni di righe (circa 600 rotoli), testina e taglierina a lunga durata.
+La Q3X-N RT è la stampante telematica Custom di terza generazione pensata per installazioni compatte. Supporto allo scontrino digitale, compatibile con RX Configurator e Custom Hub per la gestione e aggiornamento firmware da remoto.
 
 | Specifiche | |
 |---|---|
-| **Codice** | `911MH040100733` |
+| **Codice** | `913FF030300733` |
 | **Larghezza carta** | 80 mm |
 | **Rotolo max** | Ø 80 mm |
-| **Velocità di stampa** | 200 mm/s |
+| **Velocità di stampa** | 140 mm/s |
 | **Risoluzione** | 203 dpi (8 dot/mm) |
-| **Processore** | 100 MHz |
-| **Giornale elettronico** | MicroSD SLC Industrial — 3M righe (~600 rotoli) |
-| **Taglierina** | 1 milione di tagli — taglio totale o parziale |
-| **Interfacce** | RS232 · USB · Ethernet · cassetto · Wi-Fi/BT opzionale |
-| **Protocolli** | Custom · Custom DDLL · Xon-Xoff · Web Services |
-| **Omologa** | Nativa A.d.E. V11.1 · Lotteria Scontrini tradizionale e istantanea |
+| **Interfacce** | Ethernet + USB |
+| **Omologa** | Spec. RT V.7 e superiori — Lotteria Scontrini |
+| **Funzioni** | Scontrino parlante · Reso · Annullo · Aggiornamento firmware da remoto |
 
 ---
 
