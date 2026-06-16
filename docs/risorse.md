@@ -98,14 +98,14 @@ FOLLOW-UP
 □ Inserire in calendario rinnovo annuale
 
 ```
-## 🎧 Podcast: Digitalizzare_i_saloni_di_bellezza_italiani
+## 🎧 Podcast: Digitalizzare i salonidi_bellezza italiani
 
 Benvenuto nella sezione audio della nostra documentazione. Abbiamo introdotto questo formato per affiancarti in modo pratico anche durante gli spostamenti in auto verso i clienti ed anche un po' per tenerti compagnia!
 
 Avvia il player qui sotto per ascoltare la traccia.
 
 <audio controls style="width: 100%; margin-top: 15px; margin-bottom: 15px;">
-  <source src="/HYPERBEAUTY/assets/resourceS/Digitalizzare_i_saloni_di_bellezza_italiani.m4a" type="audio/mpeg">
+  <source src="../assets/resources/Digitalizzare_i_saloni_di_bellezza_italiani.mp3" type="audio/mpeg">
   Il tuo browser non supporta la riproduzione audio nativa.
 </audio>
 
