@@ -21,7 +21,7 @@ Potente, intuitivo e completo — da un unico sistema si gestisce tutto: agenda,
 ---
 
 <video controls width="100%">
-  <source src="/hb_promo.mp4" type="video/mp4">
+  <source src="assets/resources/hb_promo.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 
