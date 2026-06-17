@@ -1,5 +1,5 @@
 ![](assets/images/hyperbeauty_blu_rgb.png)
-)
+
 
 # HyperBeauty — Formazione Commerciale
 
@@ -17,6 +17,13 @@ In un'ora acquisirete una visione chiara del mercato di riferimento, delle carat
 Potente, intuitivo e completo — da un unico sistema si gestisce tutto: agenda, clienti, marketing, magazzino e personale.
 
 > *"Il tuo centro, finalmente sotto controllo."*
+
+---
+
+<video controls width="100%">
+  <source src="/hb_promo.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
 
 ---
 

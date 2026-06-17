@@ -34,6 +34,8 @@ Registrati su foglio Excel, su un quaderno o nella memoria. Nessuna visibilità 
 ### 👥 I clienti
 Non c'è una vera scheda cliente. Si ricordano "a memoria" le preferenze. Se cambia l'operatore, le informazioni si perdono. Non c'è nessun sistema per ricontattare i clienti inattivi.
 
+![](assets/images/cliente.png)
+
 ### 📦 Il magazzino
 I prodotti finiscono senza preavviso. Gli acquisti vengono fatti "a occhio". Non si sa mai con precisione quanto si spende in prodotti rispetto a quanto si incassa.
 
