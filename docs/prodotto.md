@@ -175,7 +175,7 @@ Integrazione **nativa e certificata** con le stampanti fiscali Custom. Nessuna c
 !!! warning "Compatibilità hardware — da comunicare chiaramente"
     L'integrazione nativa è disponibile esclusivamente con i **dispositivi Custom dotati di protocollo WebService**. Sono **esclusi** i registratori di cassa a tastiera e le stampanti di seconda generazione. Verificate sempre il modello del cliente prima di promettere integrazione immediata.
 
-!!! success "Argomento esclusivo per voi concessionari"
+!!! success "Argomento esclusivo per voi Partners"
     Nessun altro software beauty sul mercato italiano ha questa integrazione nativa. Chi acquista HyperBeauty + hardware Custom compatibile ha **un ecosistema unico** e **un solo interlocutore** per tutto: voi.
 
 ---

@@ -143,7 +143,7 @@ Questo mantiene il dialogo aperto e vi dà un'altra occasione di contatto.
 
 ---
 
-## Il valore del concessionario locale
+## Il valore del Partner locale
 
 Questo è il vostro argomento più forte che nessun competitor può togliervi:
 

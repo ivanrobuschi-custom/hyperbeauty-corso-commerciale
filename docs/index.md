@@ -5,7 +5,7 @@
 
 ### Obiettivo del corso
 
-Questo portale ha l'obiettivo di fornire ai **concessionari e installatori** Custom S.p.A. le competenze commerciali necessarie per **posizionare, presentare e vendere** HyperBeauty ai professionisti del settore beauty.
+Questo portale ha l'obiettivo di fornire ai **Partners e installatori** Custom S.p.A. le competenze commerciali necessarie per **posizionare, presentare e vendere** HyperBeauty ai professionisti del settore beauty.
 
 In un'ora acquisirete una visione chiara del mercato di riferimento, delle caratteristiche distintive del prodotto rispetto alla concorrenza e degli strumenti argomentativi per guidare il cliente verso il piano più adatto.
 

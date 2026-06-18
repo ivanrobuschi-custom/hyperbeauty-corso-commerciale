@@ -51,7 +51,7 @@ Riferimento rapido per la proposta commerciale:
 
 ---
 
-## Checklist setup per il concessionario
+## Checklist setup per il Partner
 
 Dopo la firma del contratto, questi sono i passi per il setup del cliente:
 

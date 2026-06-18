@@ -106,7 +106,7 @@ Il mercato italiano ha diversi player specializzati. Conoscerli vi aiuta a posiz
 | **Dylog-Buffetti** (vendita diretta e tramite partner) | Rete distributiva capillare, presente anche tramite rivenditori locali | Ecosistema contabile-fiscale integrato, capillarità territoriale | Non specializzato beauty, interfaccia generica, nessun hardware Custom |
 
 !!! info "Il vantaggio competitivo chiave"
-    HyperBeauty è l'**unico gestionale beauty integrato nativamente con l'hardware Custom** (dispositivi WebService). Per voi concessionari è un argomento esclusivo che nessuno dei competitor sopra può replicare: chi acquista la stampante Custom e il gestionale HyperBeauty ha un ecosistema unico, un solo interlocutore, meno problemi tecnici.
+    HyperBeauty è l'**unico gestionale beauty integrato nativamente con l'hardware Custom** (dispositivi WebService). Per voi Partners è un argomento esclusivo che nessuno dei competitor sopra può replicare: chi acquista la stampante Custom e il gestionale HyperBeauty ha un ecosistema unico, un solo interlocutore, meno problemi tecnici.
 
 ---
 
@@ -124,7 +124,7 @@ Durante la visita commerciale, questi sono i segnali che indicano un cliente cal
 
 ---
 
-## Il ruolo del concessionario
+## Il ruolo del Partner
 
 Voi non vendete solo un software. Portate a un professionista uno **strumento che cambia il modo di lavorare** e libera tempo prezioso. Questo è il valore da comunicare fin dal primo contatto.
 

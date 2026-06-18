@@ -15,8 +15,8 @@ Quattro proposte **pronte all'uso** — una per ogni piano HyperBeauty. Ogni con
 | Piano | Configurazione | PC Windows | Schermo | Stampante RT |
 |:---:|---|---|:---:|---|
 | 🟢 Essential | **STARTER** | SILK 15" | 15" | Q3X-N RT |
-| 🔵 Advanced | **SMART** | ARAGON 15.6" i3 | 15.6" | P3-N RT |
-| 🟡 Business | **PRO** | TREK 15.6" i3-N305 | 15.6" | K3-N RT |
+| 🔵 Advanced | **SMART** | ARAGON 15.6" J6412 | 15.6" | P3-N RT |
+| 🟡 Business | **PRO** | ARAGON 15.6" i3 | 15.6" | K3-N RT |
 | 🔴 Enterprise | **PRESTIGE** | TREK 21.5" i3-N305 | 21.5" | K3-N RT Display |
 
 ---
@@ -85,14 +85,14 @@ La P3-N RT spicca per affidabilità e qualità di stampa, con omologa nativa all
 
 ---
 
-### PC POS · ARAGON 15.6" i3
+### PC POS · ARAGON 15.6" J6412
 
-ARAGON è il PC POS Windows® con monitor wide 16:9 dalle linee slim ed eleganti. Schermo touch Full HD completamente in vetro, design fan-less e silenzioso. Processore Core i3 ad alte prestazioni — la workstation di riferimento per il banco cassa professionale.
+ARAGON J6412 è il PC POS Windows® con monitor wide 16:9 dalle linee slim ed eleganti. Schermo touch Full HD completamente in vetro, design fan-less e silenzioso. Processore Intel® Celeron J6412 Quad Core — il punto d'ingresso della famiglia ARAGON, bilanciato tra prestazioni e costo d'impianto contenuto.
 
 | Specifiche | |
 |---|---|
-| **Codice** | `935KY480100L33` |
-| **Processore** | Intel® Core i3-10110U Dual Core 2.1 GHz (fino a 4.1 GHz) |
+| **Codice** | `935KY470100L33` |
+| **Processore** | Intel® Celeron J6412 Quad Core 2.0 GHz (fino a 2.6 GHz) |
 | **Memoria** | 8 GB DDR4 |
 | **Storage** | 128 GB SSD 2.5" |
 | **Display** | 15.6" FHD Wide 1920×1080 — Touch PCAP full-glass |
@@ -125,7 +125,7 @@ La Q3X-N RT è la stampante telematica Custom di terza generazione pensata per i
     ✅ Tutto di Essential · ✅ **Statistiche avanzate** · ✅ **Fidelity Card** (raccolta punti e premi) · ✅ **Turni di lavoro e festività** · ✅ **Esportazione anagrafiche Excel**
 
 !!! info "Argomento di vendita"
-    *"Con SMART il titolare smette di lavorare a sensazione. Sa chi sono i suoi migliori clienti, quali operatori rendono di più e quando è il momento di fare una promozione. L'ARAGON i3 con FHD full-glass è il banco cassa che i clienti notano."*
+    *"Con SMART il titolare smette di lavorare a sensazione. Sa chi sono i suoi migliori clienti, quali operatori rendono di più e quando è il momento di fare una promozione. L'ARAGON J6412 con FHD full-glass è il banco cassa che i clienti notano — prestazioni solide, design slim, costo d'impianto accessibile."*
 
 ---
 ---
@@ -138,21 +138,20 @@ La Q3X-N RT è la stampante telematica Custom di terza generazione pensata per i
 
 ---
 
-### PC POS · TREK 15.6" i3-N305
+### PC POS · ARAGON 15.6" i3
 
-TREK è la piattaforma POS versatile e moderna: True-Flat PCAP multi-touch, processore Intel® di ultima generazione (Alder Lake-N), stand incluso. Progettato per ambienti ad alto traffico, unisce prestazioni elevate, design slim e ampia connettività in un unico dispositivo.
+ARAGON i3 è il PC POS Windows® con monitor wide 16:9 dalle linee slim ed eleganti. Schermo touch Full HD completamente in vetro, design fan-less e silenzioso. Processore Core i3-10110U ad alte prestazioni — la workstation di riferimento per il banco cassa professionale di un centro strutturato.
 
 | Specifiche | |
 |---|---|
-| **Codice** | `935PW010500L33` |
-| **Processore** | Intel® Core i3-N305 — Alder Lake-N |
-| **Memoria** | 8 GB LPDDR4 |
-| **Storage** | 128 GB SSD M.2 |
-| **Display** | 15.6" True-Flat PCAP multi-touch — **300 NITS** |
-| **Risoluzione** | FHD |
-| **Connettività** | 2× USB-A 3.0 · 2× USB-A 2.0 · 1× USB-C 3.0 · supporto VESA 75×75 mm |
-| **Stand** | Incluso |
-| **OS supportati** | Windows 10/11 IoT · ChromeOS Flex · Linux |
+| **Codice** | `935KY480100L33` |
+| **Processore** | Intel® Core i3-10110U Dual Core 2.1 GHz (fino a 4.1 GHz) |
+| **Memoria** | 8 GB DDR4 |
+| **Storage** | 128 GB SSD 2.5" |
+| **Display** | 15.6" FHD Wide 1920×1080 — Touch PCAP full-glass |
+| **Connettività** | 4× USB 3.0 · 4× USB 2.0 · 2× seriali RJ45 · LAN Gigabit · HDMI |
+| **Design** | Fan-less e silenzioso — montaggio a parete o su chiosco |
+| **OS supportati** | Windows® 10 IoT · Windows® 11 Pro · Linux |
 
 ---
 
@@ -185,7 +184,7 @@ K3-N RT è l'evoluzione Custom di terza generazione: potente, veloce e nativamen
     Un centro con 200 clienti attivi lancia un abbonamento "Pulizia viso mensile" da €35. Anche solo 40 clienti aderiscono: **€ 1.400/mese di entrate garantite**, indipendentemente da disdette o stagionalità.
 
 !!! info "Argomento di vendita"
-    *"Business è il piano per chi vuole dormire tranquillo: con gli abbonamenti sai già a inizio mese quanto incasserai. La K3-N batte a 280 mm/s e stampa QR code senza moduli aggiuntivi — è la stampante che non ti ferma mai."*
+    *"Business è il piano per chi vuole dormire tranquillo: con gli abbonamenti sai già a inizio mese quanto incasserai. L'ARAGON i3 Core garantisce la potenza per gestire agenda, cassa e applicativi simultaneamente senza mai rallentare. La K3-N batte a 280 mm/s e stampa QR code senza moduli aggiuntivi — è la stampante che non ti ferma mai."*
 
 ---
 ---
