@@ -2,7 +2,7 @@
 
 ## Cos'è HyperBeauty
 
-**HyperBeauty** è un gestionale cloud **all-in-one** pensato esclusivamente per i professionisti della bellezza. È distribuito da **Custom S.p.A.** in modalità white-label sul software **Primo**.
+**HyperBeauty** è un gestionale cloud **all-in-one** pensato esclusivamente per i professionisti della bellezza.
 
 Funziona su qualsiasi dispositivo — computer, Mac, tablet, smartphone — senza installazioni, con backup automatico e aggiornamenti inclusi.
 
